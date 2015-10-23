@@ -6,7 +6,7 @@ sudo apt-get install google-chrome-stable
 
 ```
 
-* install sublime text2 
+*install sublime text2 
 ```
 sudo add-apt-repository -y ppa:webupd8team/sublime-text-2
 sudo apt-get update
@@ -65,8 +65,10 @@ https://packagecontrol.io
 ```
 ------------------------------------------------------------------------------
 **check node !! code**
+```
 1. node -v
 2. npm -v
+```
 ----------------------------------------------------------------------------------
 **_npm install_**
 **£ express (you should create a directory)**
