@@ -39,7 +39,45 @@ sudo apt-get update
 
 
 
+*install packet !!! (sublime)
+```
+1. emmet 
+2. htmlbeautify
+3. standard fomat
+4. theme : better for implement : Search for { Devastate } is nice!!
+https://packagecontrol.io
+```
 
+------------------------------------------------------------------------------------
+*install node.js
+```
+1. sudo apt-get install nodejs
+2. sudo apt-get install npm
+```
+----------------------------------------------------------------------------------
+**if error!**
+**The program 'node' can be found in the following packages:**
+* node
+* nodejs-legacy
+**Try: sudo apt-get install <selected package>**
+```
+1. sudo ln -s `which nodejs` /usr/local/bin/node
+```
+------------------------------------------------------------------------------
+**check node !! code**
+1. node -v
+2. npm -v
+----------------------------------------------------------------------------------
+**_npm install_**
+**£ express (you should create a directory)**
+```
+1. npm init
+2. npm install express --save
+``
+**£ socket.io**
+```
+1. npm install --save socket.io
+```
 
 
 
